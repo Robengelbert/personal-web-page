@@ -14,7 +14,7 @@
 		<p><strong>Goal:</strong> The goal of this site is to establish my professional brand, and give potential employers and collaborators an opportunity to view my work, and contact me with employment opportunities.</p>
 		<!-- Create a persona  -->
 		<h2>Persona</h2>
-		<img src="images/carsten-hyldahl.jpg" alt="picture of Carsten Hyldahl" />
+		<img src="../images/carsten-hyldahl.jpg" alt="picture of Carsten Hyldahl" />
 		<p><strong>Name:</strong> Carsten Hyldahl</p>
 		<p><strong>Age:</strong> 38</p>
 		<p><strong>Profession:</strong> CTO at <a href="https://www.startupers.com/jobs/liveintent/7194-web-developer">LiveIntent</a> a company that is looking for a web developer, and offers a smarter way to market and advertise in email. </p>
