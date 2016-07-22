@@ -8,6 +8,9 @@ The major issue you have is the directory structure needs to be reorganized. See
 
 As of now, I can't pass this Milestone until the directory structure is fixed. Make the corrections listed below by the due date and this Milestone will pass at [Tier IV](https://bootcamp-coders.cnm.edu/projects/personal/rubric/).
 
+#### Update 07/19/16
+Nice work correcting the directory structure. Everything here looks great. Your Milestone 1 passes at [Tier IV](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). Nice work. We'll talk about the Milestone 2 UX Design components this week.
+
 ### Edits &amp; Suggestions
 Your directory structure needs to be corrected. Take another look at the [Milestone 1 Documentation](https://bootcamp-coders.cnm.edu/projects/personal/milestone-one/).
   1. Rename the directory on the server to "personal-web-page". Your PhpStorm deployment settings **will** need to be updated after this step. SSH in, and `cd` into your `public_html` directory. Then rename your project directory using the following command: `mv 'documentation' 'personal-web-page'`
