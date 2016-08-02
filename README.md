@@ -16,3 +16,13 @@ Your directory structure needs to be corrected. Take another look at the [Milest
   1. Rename the directory on the server to "personal-web-page". Your PhpStorm deployment settings **will** need to be updated after this step. SSH in, and `cd` into your `public_html` directory. Then rename your project directory using the following command: `mv 'documentation' 'personal-web-page'`
   2. In PhpStorm, create a new directory named `public_html`. Move the `/images` directory inside there.
   3. Inside `public_html`, create a new directory named `documentation`. Move your `milestone-1.php` file inside there.
+  
+## PWP Milestone 2&alpha; Feedback
+Nice job on your wireframes. The layout choices you've made will work very well with the [Bootstrap](http://getbootstrap.com/) framework, which we will be covering in class. A one-page layout is a good choice if your content is on the lighter side. If any of your content sections grow, consider creating a separate page for those sections.
+
+I would recommend that your mobile drop down page links each be on their own line, as phone smaller screens might be too narrow in some cases. Bootstrap does this by default. Also, think about how you would like to display your Portfolio items in a little more detail. Small but intricate UI elements like portfolio tiles can be somewhat more complicated to code and style. If you have a detailed plan about how you want them to look that will serve as a better guide when you start coding this up. This can also help you decide whether a 3rd party tool like [Swipebox](http://brutaldesign.github.io/swipebox/) might be something you want to use. Also, consider adding a footer - totally not required, but a footer is a useful content area on a website.
+
+Your content strategy should be written in paragraph format, but I see that you've added the details directly into the wireframe. Everything here is well done overall, and you have a good guide to begin your development process (after the CSS and Bootstrap lessons). If you add the Content Strategy in paragraph format, I'll bump your grade to [Tier IV](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). Right now, I'm prepared to sign off on your Milestone at [Tier III](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). Nice work.
+
+### Edits &amp; Suggestions
+- Update Content Strategy in paragraph format by the due date (8/8/16), and I'll bump up your grade to Tier IV.
