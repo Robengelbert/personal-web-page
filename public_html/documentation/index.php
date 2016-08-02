@@ -9,7 +9,7 @@
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
 		<!-- custom css -->
-		<link href="css/style.css" rel="stylesheet" type="text/css" />
+		<link href="../css/style.css" rel="stylesheet" type="text/css" />
 
 		<title>robertengelbert.com</title>
 	</head>
@@ -49,7 +49,7 @@
 		<!-- navigation ends -->
 		<!-- Added a image with text over it -->
 		<div class="image">
-			<img class="resize" src="images/sandia-mtn.jpg" alt="picture of sandia mountains" />
+			<img class="resize" src="../images/sandia-mtn.jpg" alt="picture of sandia mountains" />
 		</div>
 		<div class="container about">
 			<p class="lead">Welcome to my site I'm a Developer and a life long learner. I've worked in manufacturing as a welder and a aircraft assembler. Before that I worked in construction as a sheetrock finisher.</p>
@@ -61,9 +61,9 @@
 		<div class="container">
 			<div class="container-fluid">
 				<div class="row m-t-3">
-					<div class="col-xs-12 col-md-4 me"><img class="port" src="images/placeholder.png" alt="Placeholder" /></div>
-					<div class="col-xs-12 col-md-4 me"><img class="port" src="images/placeholder.png" alt="Placeholder" /></div>
-					<div class="col-xs-12 col-md-4 me"><img class="port" src="images/placeholder.png" alt="Placeholder" /></div>
+					<div class="col-xs-12 col-md-4 me"><img class="port" src="../images/placeholder.png" alt="Placeholder" /></div>
+					<div class="col-xs-12 col-md-4 me"><img class="port" src="../images/placeholder.png" alt="Placeholder" /></div>
+					<div class="col-xs-12 col-md-4 me"><img class="port" src="../images/placeholder.png" alt="Placeholder" /></div>
 				</div>
 			</div>
 			<!-- end of portfolio images -->
