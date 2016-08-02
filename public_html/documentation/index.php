@@ -77,7 +77,7 @@
 						<abbr title="Phone">P:</abbr>(918) 568-7203</address>
 				</div>
 				<!-- contact form -->
-				<div class="col-md-4 col-md-offset-3 contact">
+				<div class="col-md-4 contact">
 					<form>
 						<div class="form-group">
 							<input type="text" class="form-control"  placeholder="Name" />
