@@ -14,6 +14,87 @@
 		<title>robertengelbert.com</title>
 	</head>
 	<body>
+		<a id="home"></a>
+		<!-- navigation begins -->
+		<nav class="navbar navbar-light navbar-fixed-top" style="background-color: darkgray">
+
+			<!-- Navbar brand-->
+			<a class="navbar-brand" href="#">Robert Engelbert</a>
+
+			<!-- Hamburger Logo for small screens -->
+			<div  class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainNavBar">
+					<span class="glyphicon glyphicon-menu-hamburger"></span>
+				</button>
+			</div>
+
+			<!-- Menu Items -->
+			<div class="collapse navbar-collapse" id="mainNavBar">
+				<ul class="nav navbar-nav">
+					<li class="nav-item">
+						<a class="nav-link" href="#home">Home</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">About</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#portfolio">Portfolio</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#call">Contact</a>
+					</li>
+				</ul>
+			</div>
+		</nav>
+		<!-- navigation ends -->
+		<!-- Added a image with text over it -->
+		<div class="image">
+			<img class="resize" src="images/sandia-mtn.jpg" alt="picture of sandia mountains" />
+		</div>
+		<div class="container about">
+			<p class="lead">Welcome to my site I'm a Developer and a life long learner. I've worked in manufacturing as a welder and a aircraft assembler. Before that I worked in construction as a sheetrock finisher.</p>
+			<hr class="m-y-2">
+			<p class="lead">I took a simple online introduction to web development and thought the code was a nice challenge and somthing I could constantly grow my knowledge base on. I'm a HTML, CSS, Bootstrap, JavaScript, JQuery, Angular JS and PHP developer.</p>
+		</div>
+		<!-- portfolio images -->
+		<a id="portfolio"></a>
+		<div class="container">
+			<div class="container-fluid">
+				<div class="row m-t-3">
+					<div class="col-xs-12 col-md-4 me"><img class="port" src="images/placeholder.png" alt="Placeholder" /></div>
+					<div class="col-xs-12 col-md-4 me"><img class="port" src="images/placeholder.png" alt="Placeholder" /></div>
+					<div class="col-xs-12 col-md-4 me"><img class="port" src="images/placeholder.png" alt="Placeholder" /></div>
+				</div>
+			</div>
+			<!-- end of portfolio images -->
+			<div class="container">
+				<!-- Contact information -->
+				<a id="call"></a>
+				<h3 id="contact" class="display-4">contact</h3>
+				<div class="col-md-4">
+					<address>
+						<a href="rob@robertengelbert.com">rob@robertengelbert.com</a>
+						<abbr title="Phone">P:</abbr>(918) 568-7203</address>
+				</div>
+				<!-- contact form -->
+				<div class="col-md-4 col-md-offset-3 contact">
+					<form>
+						<div class="form-group">
+							<input type="text" class="form-control"  placeholder="Name" />
+						</div>
+						<div class="form-group">
+							<input type="email" class="form-control" placeholder="Email" />
+						</div>
+						<textarea class="form-control" rows="3"></textarea>
+						<button type="button" class="btn btn-default">Submit</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<footer>
+			&copy2016 Robert Engelbert
+			<a href="https://twitter.com/robengelbert" class="twitter-follow-button" data-show-count="false">Follow @robengelbert</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+		</footer>
 		<!-- jQuery first, then Bootstrap JS. -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>

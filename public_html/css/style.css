@@ -1,0 +1,57 @@
+/*to keep page content from going behind the navbar and give the body a lightgray color*/
+body{
+	padding-top: 70px;
+	background-color: lightgray;
+}
+/*to resize banner image at the top*/
+.resize{
+	width:100%;
+}
+/*to resize portfolio images*/
+.port{
+	width:85%
+}
+/*to add and style the footer*/
+footer{
+	background-color: darkgray;
+	color:white;
+	height: 50px;
+	text-align:center;
+}
+/*to change the color of my nav links and brand to white*/
+.nav-link{
+	color:white;
+}
+.navbar-brand{
+	color:white;
+}
+.me{
+	margin-top:15px;
+}
+/*form styles*/
+.contact{
+	background-color: lightgray;
+	margin-bottom: 20px;
+}
+form{
+	padding-top: 10px;
+	margin-bottom: 10px;
+}
+/* -------media queries-------- */
+@media (min-width: 1065px) {
+	.image {
+		position: relative;
+		padding-bottom: 20px;
+	}
+
+	.about {
+		position: absolute;
+		top: 150px;
+		left: 75px;
+	}
+	@media (max-width: 965px){
+		.me{
+			margin-left:50px;
+		}
+	}
+}
