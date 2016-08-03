@@ -11,6 +11,7 @@
 		<!-- custom css -->
 		<link href="../css/style.css" rel="stylesheet" type="text/css" />
 
+		<!-- This page was originally created in my prework directory if you'd like to see my commit history go to the prework repository on github look at the file named portfolio.html -->
 		<title>robertengelbert.com</title>
 	</head>
 	<body>
@@ -76,6 +77,7 @@
 						<a href="rob@robertengelbert.com">rob@robertengelbert.com</a>
 						<abbr title="Phone">P:</abbr>(918) 568-7203</address>
 				</div>
+				<!-- I'm not sure about this contact area I need some guidance.-->
 				<!-- contact form -->
 				<div class="col-md-4 contact">
 					<form>
