@@ -52,9 +52,9 @@
 			<img class="resize" src="../images/sandia-mtn.jpg" alt="picture of sandia mountains" />
 		</div>
 		<div class="container about">
-			<p class="lead">Welcome to my site I'm a Developer and a life long learner. I've worked in manufacturing as a welder and a aircraft assembler. Before that I worked in construction as a sheetrock finisher.</p>
+			<p class="lead">Hi, my name is Robert, and I love to code. I started out learning online and then decided to go to the deep dive coders bootcamp at central New Mexico's STEMulus center in Albuquerque New Mexico. I'm a PHP, Javascript, JQuery, Angular JS, CSS, Bootstrap and HTML developer. I can't wait to start working with you.</p>
 			<hr class="m-y-2">
-			<p class="lead">I took a simple online introduction to web development and thought the code was a nice challenge and somthing I could constantly grow my knowledge base on. I'm a HTML, CSS, Bootstrap, JavaScript, JQuery, Angular JS and PHP developer.</p>
+			<p class="lead">I like to give myself code challenges to solve in my spare time to help keep my skills sharp. I've worked in manufacturing as a welder, and a aircraft assembler. Before that I worked in construction as a sheetrock finisher.</p>
 		</div>
 		<!-- portfolio images -->
 		<a id="portfolio"></a>
