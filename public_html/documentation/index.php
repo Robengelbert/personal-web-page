@@ -16,7 +16,7 @@
 		<!-- This page was originally created in my prework directory if you'd like to see my commit history go to the prework repository on github look at the file named portfolio.html -->
 		<title>robertengelbert.com</title>
 	</head>
-	<body>
+	<body id="scroll">
 		<a id="home"></a>
 		<!-- navigation begins -->
 		<nav class="navbar navbar-light navbar-fixed-top" style="background-color: darkgray">
