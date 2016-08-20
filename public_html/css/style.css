@@ -1,7 +1,7 @@
 /*to keep page content from going behind the navbar and give the body a lightgray color*/
 body{
 	padding-top: 70px;
-	background-color: lightgray;
+	background-color: #538FEB;
 }
 /*to resize banner image at the top*/
 .resize{
