@@ -19,7 +19,7 @@
 	<body id="scroll">
 		<a id="home"></a>
 		<!-- navigation begins -->
-		<nav class="navbar navbar-light navbar-fixed-top" style="background-color: darkgray">
+		<nav class="navbar navbar-light navbar-fixed-top" style="background-color: #538FEB">
 
 			<!-- Navbar brand-->
 			<a class="navbar-brand" href="#">Robert Engelbert</a>

@@ -1,7 +1,7 @@
 /*to keep page content from going behind the navbar and give the body a lightgray color*/
 body{
 	padding-top: 70px;
-	background-color: #538FEB;
+	background-color: lightblue;
 }
 /*to resize banner image at the top*/
 .resize{
@@ -14,7 +14,7 @@ body{
 }
 /*to add and style the footer*/
 footer{
-	background-color: darkgray;
+	background-color: #538FEB;
 	color:white;
 	height: 50px;
 	text-align:center;
