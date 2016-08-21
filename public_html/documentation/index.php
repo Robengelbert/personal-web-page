@@ -34,7 +34,7 @@
 			</div>
 
 			<!-- Menu Items -->
-			<div class="collapse navbar-collapse" id="mainNavBar">
+			<div class="collapse navbar-collapse move" id="mainNavBar">
 				<ul class="nav navbar-nav">
 					<li class="nav-item">
 						<a class="nav-link" href="#home">About</a>

@@ -1,4 +1,3 @@
-$('.move').hover(
-	function(){$(this).addClass('hover')},
-	function(){$(this).removeClass('hover')}
-)
+$("#move").mouseover(function(){
+	$("#ul1").addClass("hover").removeClass("hover")
+})

@@ -30,8 +30,8 @@ footer{
 .navbar-brand{
 	color:white;
 }
-.move{
-	color: #725522;
+.move:hover li{
+	color: red;
 }
 .me{
 	margin-top:15px;
