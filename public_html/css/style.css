@@ -33,6 +33,12 @@ footer{
 .me{
 	margin-top:15px;
 }
+li:hover a{
+	color:white;
+}
+span:hover a{
+	color:white;
+}
 /*form styles*/
 .contact{
 	background-color: #725522;
