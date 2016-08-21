@@ -19,6 +19,10 @@ footer{
 	height: 50px;
 	text-align:center;
 }
+.phone{
+	text-decoration: none;
+	color: white;
+}
 /*to change the color of my nav links and brand to white*/
 .nav-link{
 	color:white;
@@ -51,8 +55,8 @@ form{
 		left: 150px;
 	}
 	@media (max-width: 965px){
-		.me{
-			margin-left:50px;
+		.me {
+			margin-left: 50px;
 		}
 	}
 }

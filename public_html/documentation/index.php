@@ -35,16 +35,18 @@
 			<div class="collapse navbar-collapse" id="mainNavBar">
 				<ul class="nav navbar-nav">
 					<li class="nav-item">
-						<a class="nav-link" href="#home">Home</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#">About</a>
+						<a class="nav-link" href="#home">About</a>
 					</li>
 					<li class="nav-item">
 						<a class="nav-link" href="#portfolio">Portfolio</a>
 					</li>
 					<li class="nav-item">
 						<a class="nav-link" href="#call">Contact</a>
+					</li>
+				</ul>
+				<ul class="nav navbar-nav pull-right">
+					<li class="nav-item">
+						<a class="nav-link" href="mailto:rob@robertengelbert.com">rob@robertengelbert.com</a>
 					</li>
 				</ul>
 			</div>
@@ -74,11 +76,7 @@
 				<!-- Contact information -->
 				<a id="call"></a>
 				<h3 id="contact" class="display-4">contact</h3>
-				<div class="col-md-4">
-					<address>
-						<a href="rob@robertengelbert.com">rob@robertengelbert.com</a>
-						<abbr title="Phone">P:</abbr>(918) 568-7203</address>
-				</div>
+
 				<!-- I'm not sure about this contact area I need some guidance.-->
 				<!-- contact form -->
 				<div class="col-md-4 contact">
@@ -98,6 +96,7 @@
 		<footer>
 			&copy2016 Robert Engelbert
 			<a href="https://twitter.com/robengelbert" class="twitter-follow-button" data-show-count="false">Follow @robengelbert</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+			<a class="phone pull-right p-r-1" href="tel:+9185687203">(918)-568-7203</a>
 		</footer>
 		<!-- jQuery first, then Bootstrap JS. -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
