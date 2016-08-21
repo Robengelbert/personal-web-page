@@ -19,7 +19,7 @@
 	<body id="scroll">
 		<a id="home"></a>
 		<!-- navigation begins -->
-		<nav class="navbar navbar-light navbar-fixed-top" style="background-color: #725522">
+		<nav class="navbar navbar-light navbar-fixed-top move" style="background-color: #725522">
 
 			<!-- Navbar brand-->
 			<span>
