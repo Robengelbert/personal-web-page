@@ -30,17 +30,14 @@ footer{
 .navbar-brand{
 	color:white;
 }
-.move:hover li{
-	color: red;
-}
 .me{
 	margin-top:15px;
 }
 li:hover a{
-	color:white;
+	color:#725522;
 }
 span:hover a{
-	color:white;
+	color:#725522;
 }
 /*form styles*/
 .contact{
