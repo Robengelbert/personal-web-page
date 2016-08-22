@@ -84,11 +84,14 @@
 				<div class="col-md-4 contact">
 					<form>
 						<div class="form-group">
+							<label for="inputName"></label>
 							<input type="text" class="form-control"  placeholder="Name" />
 						</div>
 						<div class="form-group">
+							<label for="inputEmail"></label>
 							<input type="email" class="form-control" placeholder="Email" />
 						</div>
+						<label for="inputText"></label>
 						<textarea class="form-control" rows="3"></textarea>
 						<button type="button" class="btn btn-default">Submit</button>
 					</form>
