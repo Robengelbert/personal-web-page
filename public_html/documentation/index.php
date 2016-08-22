@@ -23,7 +23,7 @@
 
 			<!-- Navbar brand-->
 			<span>
-			<a class="navbar-brand" href="#">Robert Engelbert</a>
+			<a class="navbar-brand name" href="#">Robert Engelbert</a>
 			</span>
 
 			<!-- Hamburger Logo for small screens -->
@@ -99,7 +99,7 @@
 			&copy2016 Robert Engelbert
 			<a href="https://twitter.com/robengelbert" class="twitter-follow-button" data-show-count="false">Follow @robengelbert</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 			<span>
-			<a class="phone pull-right p-r-1" href="tel:+9185687203">(918)-568-7203</a>
+			<a class="phone pull-right p-r-1 name" href="tel:+9185687203">(918)-568-7203</a>
 			</span>
 		</footer>
 		<!-- jQuery first, then Bootstrap JS. -->

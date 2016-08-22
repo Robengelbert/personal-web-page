@@ -30,6 +30,9 @@ footer{
 .navbar-brand{
 	color:white;
 }
+span:hover .name{
+	color:white;
+}
 .me{
 	margin-top:15px;
 }
