@@ -7,6 +7,13 @@ body{
 .resize{
 	width:100%;
 }
+/* this is not a responsive solution  */
+/*.resize{
+	background:url( "../images/echoLake.jpg");
+	background-size:cover;
+	width:100%;
+	height: 100rem;
+}*/
 /*to resize portfolio images*/
 .port{
 	width:85%;
@@ -47,9 +54,6 @@ span:hover a{
 	background-color: #725522;
 	margin-bottom: 20px;
 }
-/*.about{
-	background:url( "../images/echoLake.jpg");
-}*/
 form{
 	padding-top: 10px;
 	margin-bottom: 10px;
