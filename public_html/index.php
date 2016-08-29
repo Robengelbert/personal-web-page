@@ -9,9 +9,9 @@
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
 		<!-- custom css -->
-		<link href="../css/style.css" rel="stylesheet" type="text/css" />
+		<link href="css/style.css" rel="stylesheet" type="text/css" />
 		
-		<script src="../javascript/script.js"></script>
+		<script src="javascript/script.js"></script>
 
 		<!-- This page was originally created in my prework directory if you'd like to see my commit history go to the prework repository on github look at the file named portfolio.html -->
 		<title>robertengelbert.com</title>
@@ -56,7 +56,7 @@
 		<!-- navigation ends -->
 		<!-- Added a image with text over it -->
 		<div class="image">
-			<img class="resize" src="../images/echoLake.jpg" alt="picture of Echo lake" />
+			<img class="resize" src="images/echoLake.jpg" alt="picture of Echo lake" />
 		</div>
 		<div class="container about">
 			<p class="lead">Hi, my name is Robert, and I love to code. I started out learning online and then decided to go to the deep dive coders bootcamp at central New Mexico's STEMulus center in Albuquerque New Mexico. I'm a PHP, Javascript, JQuery, Angular JS, CSS, Bootstrap and HTML developer. I can't wait to start working with you.</p>
@@ -68,9 +68,9 @@
 		<div class="container">
 			<div class="container-fluid">
 				<div class="row m-t-3">
-					<div class="col-xs-12 col-md-4 me"><img class="port" src="../images/placeholder.png" alt="Placeholder" /></div>
-					<div class="col-xs-12 col-md-4 me"><img class="port" src="../images/placeholder.png" alt="Placeholder" /></div>
-					<div class="col-xs-12 col-md-4 me"><img class="port" src="../images/placeholder.png" alt="Placeholder" /></div>
+					<div class="col-xs-12 col-md-4 me"><img class="port" src="images/placeholder.png" alt="Placeholder" /></div>
+					<div class="col-xs-12 col-md-4 me"><img class="port" src="images/placeholder.png" alt="Placeholder" /></div>
+					<div class="col-xs-12 col-md-4 me"><img class="port" src="images/placeholder.png" alt="Placeholder" /></div>
 				</div>
 			</div>
 			<!-- end of portfolio images -->
