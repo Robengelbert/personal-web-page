@@ -13,6 +13,11 @@
 		
 		<script src="javascript/script.js"></script>
 
+<!--		font awesome-->
+
+		<script src="https://use.fontawesome.com/304dbb25bb.js"></script>
+
+
 		<!-- This page was originally created in my prework directory if you'd like to see my commit history go to the prework repository on github look at the file named portfolio.html -->
 		<title>robertengelbert.com</title>
 	</head>
