@@ -8,11 +8,13 @@ body{
 	width:100%;
 }
 /* this is not a responsive solution  */
-/*.resize{
-	background:url( "../images/echoLake.jpg");
+/*.image{
+	background:url( "../images/echoLake.jpg") no-repeat center;
+	min-height: 60rem;
 	background-size:cover;
-	width:100%;
-	height: 100rem;
+	background-attachment: fixed;
+	padding-top: 70px;
+
 }*/
 /*to resize portfolio images*/
 .port{
