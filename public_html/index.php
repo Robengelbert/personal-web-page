@@ -63,6 +63,7 @@
 		<div class="image">
 			<img class="resize" src="images/echoLake.jpg" alt="picture of Echo lake" />
 		</div>
+<!--		put this text inside of a div and place it on the image -->
 		<div class="container about">
 			<p class="lead">Hi, my name is Robert, and I love to code. I started out learning online and then decided to go to the deep dive coders bootcamp at central New Mexico's STEMulus center in Albuquerque New Mexico. I'm a PHP, Javascript, JQuery, Angular JS, CSS, Bootstrap and HTML developer. I can't wait to start working with you.</p>
 			<hr class="m-y-2">
