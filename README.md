@@ -45,3 +45,13 @@ Overall, very nice work here. Your Milestone 2&alpha; passes at [Tier III](https
 
 ### Edits &amp; Suggestions
 - [FontAwesome](http://fontawesome.io/) will take care of your social media icons.
+
+## PWP Milestone 2&beta; Feedback
+- Look at these thumbnails: http://getbootstrap.com/components/#thumbnails
+- OR you can think about replacing thumbnails with some short resume information
+- You can put welcome text up on the image
+- remember the .text-center bootstrap class
+- see CSS snippet for image
+- remove all positioning rules on layout
+- https://jquery.com/ for documentation. look at http://api.jquery.com/toggle/
+- Ask Dylan about JSON Resume, and see GitHub project here: https://github.com/dylan-mcdonald/jsonresume AND https://github.com/dylan-mcdonald/deepdivedylan/tree/master/resume
