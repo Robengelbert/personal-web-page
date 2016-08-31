@@ -69,6 +69,8 @@
 			<hr class="m-y-2">
 			<p class="lead">I like to give myself code challenges to solve in my spare time to help keep my skills sharp. I've worked in manufacturing as a welder, and a aircraft assembler. Before that I worked in construction as a sheetrock finisher.</p>
 		</div>
+
+<!--		Remove this place holder images and add resume information here instead.-->
 		<!-- portfolio images -->
 		<a id="portfolio"></a>
 		<div class="container">
@@ -85,7 +87,7 @@
 				<a id="call"></a>
 				<h3 id="contact" class="display-4">contact</h3>
 
-				<!-- I'm not sure about this contact area I need some guidance.-->
+				<!-- Center this up and then after class change this to a lQuery toggle.-->
 				<!-- contact form -->
 				<div class="col-md-4 contact">
 					<form>
@@ -105,8 +107,10 @@
 			</div>
 		</div>
 		<footer>
+<!--			try to find fontawesome links and get linkedn-->
 			&copy2016 Robert Engelbert
 			<a href="https://twitter.com/robengelbert" class="twitter-follow-button" data-show-count="false">Follow @robengelbert</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!--			remove this phonenumber and these span tags-->
 			<span>
 			<a class="phone pull-right p-r-1 name" href="tel:+9185687203">(918)-568-7203</a>
 			</span>
