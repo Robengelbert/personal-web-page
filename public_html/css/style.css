@@ -45,6 +45,7 @@ span:hover .name{
 .me{
 	margin-top:15px;
 }
+/* change color to dark cyan */
 li:hover a{
 	color:#725522;
 }
