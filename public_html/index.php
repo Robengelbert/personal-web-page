@@ -24,7 +24,7 @@
 	<body id="scroll">
 		<a id="home"></a>
 		<!-- navigation begins -->
-		<nav class="navbar navbar-light navbar-fixed-top move" style="background-color: darkblue">
+		<nav class="navbar navbar-light navbar-fixed-top move" style="background-color: forestgreen">
 
 			<!-- Navbar brand-->
 			<span>
