@@ -11,11 +11,6 @@ nav.navbar{
 	padding-top: 70px;
 
 }
-/*to resize portfolio images*/
-.port {
-	width: 85%;
-	padding-left: 30px;
-}
 /*to add and style the footer*/
 footer{
 	background-color: darkblue;
