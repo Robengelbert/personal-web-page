@@ -1,21 +1,21 @@
 /*to keep page content from going behind the navbar and give the body a lightgray color*/
 body{
-	padding-top: 70px;
-	background-color: #88B1DD;
+	/*!*padding-top: 70px;*!*/
+	/*background-color: #88B1DD;*/
 }
 /*to resize banner image at the top*/
-.resize{
-	width:100%;
-}
-/* this is not a responsive solution  */
-/*.image{
-	background:url( "../images/echoLake.jpg") no-repeat center;
+/*.resize{*/
+	/*width:100%;*/
+/*}*/
+/* background image  */
+.image{
+	background:url( "../images/moutain-valley.jpeg") no-repeat center;
 	min-height: 60rem;
 	background-size:cover;
 	background-attachment: fixed;
 	padding-top: 70px;
 
-}*/
+}
 /*to resize portfolio images*/
 .port{
 	width:85%;
@@ -23,7 +23,7 @@ body{
 }
 /*to add and style the footer*/
 footer{
-	background-color: #725522;
+	background-color: darkgreen;
 	color:white;
 	height: 50px;
 	text-align:center;
@@ -47,14 +47,14 @@ span:hover .name{
 }
 /* change color to dark cyan */
 li:hover a{
-	color:#725522;
+	color:darkgreen;
 }
 span:hover a{
-	color:#725522;
+	color:darkgreen;
 }
 /*form styles*/
 .contact{
-	background-color: #725522;
+	background-color: darkgreen;
 	margin-bottom: 20px;
 }
 form{
@@ -63,16 +63,10 @@ form{
 }
 /* -------media queries-------- */
 @media (min-width: 1065px) {
-	.image {
-		position: relative;
-		padding-bottom: 20px;
-	}
 
-	.about {
-		position: absolute;
-		top: 150px;
-		left: 150px;
-	}
+
+
+
 	@media (max-width: 965px){
 		.me {
 			margin-left: 50px;

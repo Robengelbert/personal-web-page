@@ -17,14 +17,12 @@
 
 		<script src="https://use.fontawesome.com/304dbb25bb.js"></script>
 
-
-		<!-- This page was originally created in my prework directory if you'd like to see my commit history go to the prework repository on github look at the file named portfolio.html -->
 		<title>robertengelbert.com</title>
 	</head>
 	<body id="scroll">
 		<a id="home"></a>
 		<!-- navigation begins -->
-		<nav class="navbar navbar-light navbar-fixed-top move" style="background-color: #725522">
+		<nav class="navbar navbar-light navbar-fixed-top move" style="background-color: darkgreen">
 
 			<!-- Navbar brand-->
 			<span>
@@ -61,7 +59,6 @@
 		<!-- navigation ends -->
 		<!-- Added a image with text over it -->
 		<div class="image">
-			<img class="resize" src="images/echoLake.jpg" alt="picture of Echo lake" />
 		</div>
 <!--		put this text inside of a div and place it on the image -->
 		<div class="container about">
@@ -87,7 +84,7 @@
 				<a id="call"></a>
 				<h3 id="contact" class="display-4">contact</h3>
 
-				<!-- Center this up and then after class change this to a lQuery toggle.-->
+				<!-- Center this up and then after class change this to a jquery toggle.-->
 				<!-- contact form -->
 				<div class="col-md-4 contact">
 					<form>
@@ -110,10 +107,6 @@
 <!--			try to find fontawesome links and get linkedn-->
 			&copy2016 Robert Engelbert
 			<a href="https://twitter.com/robengelbert" class="twitter-follow-button" data-show-count="false">Follow @robengelbert</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<!--			remove this phonenumber and these span tags-->
-			<span>
-			<a class="phone pull-right p-r-1 name" href="tel:+9185687203">(918)-568-7203</a>
-			</span>
 		</footer>
 		<!-- jQuery first, then Bootstrap JS. -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
