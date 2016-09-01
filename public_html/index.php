@@ -69,15 +69,15 @@
 
 <!--		Remove this place holder images and add resume information here instead.-->
 		<!-- portfolio images -->
-		<a id="portfolio"></a>
-		<div class="container">
-			<div class="container-fluid">
-				<div class="row m-t-3">
-					<div class="col-xs-12 col-md-4 me"><img class="port" src="images/placeholder.png" alt="Placeholder" /></div>
-					<div class="col-xs-12 col-md-4 me"><img class="port" src="images/placeholder.png" alt="Placeholder" /></div>
-					<div class="col-xs-12 col-md-4 me"><img class="port" src="images/placeholder.png" alt="Placeholder" /></div>
-				</div>
-			</div>
+<!--		<a id="portfolio"></a>-->
+<!--		<div class="container">-->
+<!--			<div class="container-fluid">-->
+<!--				<div class="row m-t-3">-->
+<!--					<div class="col-xs-12 col-md-4 me"><img class="port" src="images/placeholder.png" alt="Placeholder" /></div>-->
+<!--					<div class="col-xs-12 col-md-4 me"><img class="port" src="images/placeholder.png" alt="Placeholder" /></div>-->
+<!--					<div class="col-xs-12 col-md-4 me"><img class="port" src="images/placeholder.png" alt="Placeholder" /></div>-->
+<!--				</div>-->
+<!--			</div>-->
 			<!-- end of portfolio images -->
 			<div class="container">
 				<!-- Contact information -->
