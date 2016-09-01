@@ -43,6 +43,9 @@ span:hover a{
 	background-color: #48db30;
 	margin-bottom: 20px;
 }
+.about{
+	padding-top: 5rem;
+}
 form{
 	padding-top: 10px;
 	margin-bottom: 10px;
