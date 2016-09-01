@@ -78,34 +78,42 @@
 		<!-- add tables and a paragraph -->
 		<div class="container">
 			<div class="row">
-				<p class="lead text-center p-t-4">After working in manufacturing for the past 13 years, as a welder and aircraft assembler, I have decided to update my skills to and become a professional Web Developer. Soon after I began learning the LAMP stack, I quickly realized that there is a connection between what I had done in manufacturing and where I was heading with web development. Both use problem solving skills, system diagnostics, troubleshooting, and patience. I am searching for a position as a Web Developer, where I can continue to utilize and grow these same strengths.
+				<p class="lead text-center p-t-4">After working in manufacturing for the past 13 years, as a welder and
+					aircraft assembler, I have decided to update my skills to and become a professional Web Developer. Soon
+					after I began learning the LAMP stack, I quickly realized that there is a connection between what I had
+					done in manufacturing and where I was heading with web development. Both use problem solving skills,
+					system diagnostics, troubleshooting, and patience. I am searching for a position as a Web Developer,
+					where I can continue to utilize and grow these same strengths.
 
 				</p>
 				<div class="table-responsive">
-					<table class="table-bordered tech-table">
-						<tr class="table-pad">
-							<th>Languages</th>
-							<td>HTML5, CSS3, Bootstrap, PHP, MySQL, JavaScript, JQuery, Angular JS</td>
-						</tr>
-						<tr class="table-pad">
-							<th>Operating Systems</th>
-							<td>Windows: Vista, 7, 8, 8.1, 10</td>
-						</tr>
-						<tr class="table-pad">
-							<th>Software</th>
-							<td>Microsoft Office, Mozilla Firefox, Dropbox, GitHub, Google Chrome, Google Applications: Docs,
-								Gmail, Calendar, Maps
-							</td>
-						</tr>
-						<tr class="table-pad">
-							<th>Troubleshooting</th>
-							<td>Diagnosis of laptops, printers, and network connections</td>
-						</tr>
-						<tr>
-							<th>Other skills</th>
-							<td>Basic networking skills
-							</td>
-						</tr>
+					<table class=" table table-hover">
+						<tbody>
+							<tr>
+								<th>Languages</th>
+								<td>HTML5, CSS3, Bootstrap, PHP, MySQL, JavaScript, JQuery, Angular JS</td>
+							</tr>
+							<tr>
+								<th>Operating Systems</th>
+								<td>Windows: Vista, 7, 8, 8.1, 10</td>
+							</tr>
+							<tr>
+								<th>Software</th>
+								<td>Microsoft Office, Mozilla Firefox, Dropbox, GitHub, Google Chrome, Google Applications:
+									Docs,
+									Gmail, Calendar, Maps
+								</td>
+							</tr>
+							<tr>
+								<th>Troubleshooting</th>
+								<td>Diagnosis of laptops, printers, and network connections</td>
+							</tr>
+							<tr>
+								<th>Other skills</th>
+								<td>Basic networking skills
+								</td>
+							</tr>
+						</tbody>
 					</table>
 				</div>
 			</div>
