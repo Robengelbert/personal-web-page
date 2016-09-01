@@ -1,20 +1,22 @@
 
 nav.navbar{
 	margin-bottom:0;
-	background-color: #48db30;
+	background-color: #4D1A70;
 }
+/*4D1A70 purple*/
 /* background image  */
 .image {
-	background: url("../images/moutain-valley.jpeg") no-repeat center;
+	background: url("../images/night-sky.jpeg") no-repeat center;
 	min-height: 60rem;
 	background-size: cover;
 	background-attachment: fixed;
 	padding-top: 70px;
+	color:white;
 }
 
 /*to add and style the footer*/
 footer{
-	background-color: #48db30;
+	background-color: #4D1A70;
 	color:white;
 	height: 50px;
 	text-align:center;
@@ -34,14 +36,14 @@ span:hover .name{
 	margin-top:15px;
 }
 li:hover a{
-	color:#48db30;
+	color:#4D1A70;
 }
 span:hover a{
-	color: #48db30;
+	color: #4D1A70;
 }
 /*form styles*/
 .contact{
-	background-color: #48db30;
+	background-color: #4D1A70;
 	margin-bottom: 20px;
 }
 .about{
