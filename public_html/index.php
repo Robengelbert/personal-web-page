@@ -146,8 +146,8 @@
 		<footer>
 			<!--			try to find fontawesome links and get linkedn-->
 			&copy;2016 Robert Engelbert
-			<a href="https://twitter.com/robengelbert"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-			<a href="https://www.linkedin.com/"><i class="fa fa-linkedin" aria-hidden="true"></i>
+			<a href="https://twitter.com/robengelbert" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+			<a href="https://www.linkedin.com/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i>
 			</a>
 		</footer>
 		<!-- jQuery first, then Bootstrap JS. -->
