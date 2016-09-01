@@ -21,60 +21,59 @@
 
 		<title>robertengelbert.com</title>
 	</head>
-	<body id="scroll">
+	<body>
 		<a id="home"></a>
 		<!-- navigation begins -->
 		<nav class="navbar navbar-light navbar-fixed-top move" style="background-color: #48db30">
-<!--			#8d8830 olivegreen ish-->
-
-			<!-- Navbar brand-->
-			<span>
-			<a class="navbar-brand name" href="#">Robert Engelbert</a>
-			</span>
 
 			<!-- Hamburger Logo for small screens -->
-			<div class="navbar-header">
-				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainNavBar">
-					<span class="glyphicon glyphicon-menu-hamburger"></span>
-				</button>
-			</div>
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainNavBar">
+						<span class="glyphicon glyphicon-menu-hamburger"></span>
+					</button>
+					<!-- Navbar brand-->
+					<span>
+			<a class="navbar-brand name" href="#">Robert Engelbert</a>
+			</span>
+				</div>
 
-			<!-- Menu Items -->
-			<div class="collapse navbar-collapse move" id="mainNavBar">
-				<ul class="nav navbar-nav">
-					<li class="nav-item">
-						<a class="nav-link" href="#home">About</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#portfolio">Portfolio</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#call">Contact</a>
-					</li>
-				</ul>
-				<ul class="nav navbar-nav pull-right">
-					<li class="nav-item">
-						<a class="nav-link" href="mailto:rob@robertengelbert.com">rob@robertengelbert.com</a>
-					</li>
-				</ul>
+				<!-- Menu Items -->
+				<div class="collapse navbar-collapse move" id="mainNavBar">
+					<ul class="nav navbar-nav">
+						<li class="nav-item">
+							<a class="nav-link" href="#home">About</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#call">Contact</a>
+						</li>
+					</ul>
+					<ul class="nav navbar-nav pull-right">
+						<li class="nav-item">
+							<a class="nav-link" href="mailto:rob@robertengelbert.com">rob@robertengelbert.com</a>
+						</li>
+					</ul>
+				</div>
 			</div>
 		</nav>
 		<!-- navigation ends -->
 		<!-- Added a image with text over it -->
 		<div class="image">
+			<div class="container text-center about">
+				<p class="lead">Hi, my name is Robert, and I love to code. I started out learning online and then decided to
+					go
+					to the deep dive coders bootcamp at central New Mexico's STEMulus center in Albuquerque New Mexico. I'm a
+					PHP, Javascript, JQuery, Angular JS, CSS, Bootstrap and HTML developer. I can't wait to start working
+					with
+					you.</p>
+				<hr class="m-y-2">
+				<p class="lead">I like to give myself code challenges to solve in my spare time to help keep my skills
+					sharp.
+					I've worked in manufacturing as a welder, and a aircraft assembler. Before that I worked in construction
+					as
+					a sheetrock finisher.</p>
+			</div>
 		</div>
-		<!--		put this text inside of a div and place it on the image -->
-		<div class="container text-center about">
-			<p class="lead">Hi, my name is Robert, and I love to code. I started out learning online and then decided to go
-				to the deep dive coders bootcamp at central New Mexico's STEMulus center in Albuquerque New Mexico. I'm a
-				PHP, Javascript, JQuery, Angular JS, CSS, Bootstrap and HTML developer. I can't wait to start working with
-				you.</p>
-			<hr class="m-y-2">
-			<p class="lead">I like to give myself code challenges to solve in my spare time to help keep my skills sharp.
-				I've worked in manufacturing as a welder, and a aircraft assembler. Before that I worked in construction as
-				a sheetrock finisher.</p>
-		</div>
-
 
 		<!-- screenshot of the top of my resume -->
 		<div class="row">
@@ -86,8 +85,8 @@
 		</div>
 
 		<!-- Contact information -->
-		<div class="row">
-			<div class="container">
+		<div class="container">
+			<div class="row">
 				<a id="call"></a>
 				<h3 id="contact" class="display-4 text-center">contact</h3>
 
