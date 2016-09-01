@@ -24,7 +24,7 @@
 	<body>
 		<a id="home"></a>
 		<!-- navigation begins -->
-		<nav class="navbar navbar-light navbar-fixed-top move" style="background-color: #48db30">
+		<nav class="navbar navbar-light navbar-fixed-top move">
 
 			<!-- Hamburger Logo for small screens -->
 			<div class="container-fluid">
@@ -61,24 +61,21 @@
 		<div class="image">
 			<div class="container text-center about">
 				<p class="lead">Hi, my name is Robert, and I love to code. I started out learning online and then decided to
-					go
-					to the deep dive coders bootcamp at central New Mexico's STEMulus center in Albuquerque New Mexico. I'm a
+					goto the deep dive coders bootcamp at central New Mexico's STEMulus center in Albuquerque New Mexico. I'm a
 					PHP, Javascript, JQuery, Angular JS, CSS, Bootstrap and HTML developer. I can't wait to start working
 					with
 					you.</p>
 				<hr class="m-y-2">
 				<p class="lead">I like to give myself code challenges to solve in my spare time to help keep my skills
-					sharp.
-					I've worked in manufacturing as a welder, and a aircraft assembler. Before that I worked in construction
-					as
-					a sheetrock finisher.</p>
+					sharp.I've worked in manufacturing as a welder, and a aircraft assembler. Before that I worked in construction
+					asa sheetrock finisher.</p>
 			</div>
 		</div>
 
 		<!-- add tables and a paragraph -->
 		<div class="container">
 			<div class="row">
-				<p class="lead text-center p-t-4">After working in manufacturing for the past 13 years, as a welder and
+				<p class="lead text-center about">After working in manufacturing for the past 13 years, as a welder and
 					aircraft assembler, I have decided to update my skills to and become a professional Web Developer. Soon
 					after I began learning the LAMP stack, I quickly realized that there is a connection between what I had
 					done in manufacturing and where I was heading with web development. Both use problem solving skills,
@@ -148,7 +145,7 @@
 		</div>
 		<footer>
 			<!--			try to find fontawesome links and get linkedn-->
-			&copy2016 Robert Engelbert
+			&copy;2016 Robert Engelbert
 			<a href="https://twitter.com/robengelbert" class="twitter-follow-button" data-show-count="false">Follow
 				@robengelbert</a>
 			<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

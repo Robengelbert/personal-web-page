@@ -1,6 +1,7 @@
 
 nav.navbar{
 	margin-bottom:0;
+	background-color: #48db30;
 }
 /* background image  */
 .image {
@@ -49,16 +50,4 @@ span:hover a{
 form{
 	padding-top: 10px;
 	margin-bottom: 10px;
-}
-/* -------media queries-------- */
-@media (min-width: 1065px) {
-
-
-
-
-	@media (max-width: 965px){
-		.me {
-			margin-left: 50px;
-		}
-	}
 }
