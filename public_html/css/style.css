@@ -1,4 +1,7 @@
-
+body{
+	background: black;
+	color:white;
+}
 nav.navbar{
 	margin-bottom:0;
 }
@@ -13,7 +16,7 @@ nav.navbar{
 }
 /*to add and style the footer*/
 footer{
-	background-color: darkblue;
+	background-color: forestgreen;
 	color:white;
 	height: 50px;
 	text-align:center;
@@ -33,14 +36,14 @@ span:hover .name{
 	margin-top:15px;
 }
 li:hover a{
-	color:darkblue;
+	color:forestgreen;
 }
 span:hover a{
-	color:darkblue;
+	color:forestgreen;
 }
 /*form styles*/
 .contact{
-	background-color: darkblue;
+	background-color: forestgreen;
 	margin-bottom: 20px;
 }
 form{
