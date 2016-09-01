@@ -22,7 +22,7 @@
 	<body id="scroll">
 		<a id="home"></a>
 		<!-- navigation begins -->
-		<nav class="navbar navbar-light navbar-fixed-top move" style="background-color: darkgreen">
+		<nav class="navbar navbar-light navbar-fixed-top move" style="background-color: darkblue">
 
 			<!-- Navbar brand-->
 			<span>
@@ -61,7 +61,7 @@
 		<div class="image">
 		</div>
 <!--		put this text inside of a div and place it on the image -->
-		<div class="container about">
+		<div class="container text-center about">
 			<p class="lead">Hi, my name is Robert, and I love to code. I started out learning online and then decided to go to the deep dive coders bootcamp at central New Mexico's STEMulus center in Albuquerque New Mexico. I'm a PHP, Javascript, JQuery, Angular JS, CSS, Bootstrap and HTML developer. I can't wait to start working with you.</p>
 			<hr class="m-y-2">
 			<p class="lead">I like to give myself code challenges to solve in my spare time to help keep my skills sharp. I've worked in manufacturing as a welder, and a aircraft assembler. Before that I worked in construction as a sheetrock finisher.</p>
@@ -86,7 +86,7 @@
 
 				<!-- Center this up and then after class change this to a jquery toggle.-->
 				<!-- contact form -->
-				<div class="col-md-4 contact">
+				<div class="col-md-4 text-center contact">
 					<form>
 						<div class="form-group">
 							<label for="inputName"></label>

@@ -1,12 +1,7 @@
-/*to keep page content from going behind the navbar and give the body a lightgray color*/
-body{
-	/*!*padding-top: 70px;*!*/
-	/*background-color: #88B1DD;*/
+
+nav.navbar{
+	margin-bottom:0;
 }
-/*to resize banner image at the top*/
-/*.resize{*/
-	/*width:100%;*/
-/*}*/
 /* background image  */
 .image{
 	background:url( "../images/moutain-valley.jpeg") no-repeat center;
@@ -21,9 +16,12 @@ body{
 	width:85%;
 	padding-left:30px;
 }
+.contact{
+
+}
 /*to add and style the footer*/
 footer{
-	background-color: darkgreen;
+	background-color: darkblue;
 	color:white;
 	height: 50px;
 	text-align:center;
@@ -47,14 +45,14 @@ span:hover .name{
 }
 /* change color to dark cyan */
 li:hover a{
-	color:darkgreen;
+	color:darkblue;
 }
 span:hover a{
-	color:darkgreen;
+	color:darkblue;
 }
 /*form styles*/
 .contact{
-	background-color: darkgreen;
+	background-color: darkblue;
 	margin-bottom: 20px;
 }
 form{
