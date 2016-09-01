@@ -3,14 +3,14 @@ nav.navbar{
 	margin-bottom:0;
 }
 /* background image  */
-.image{
-	background:url( "../images/moutain-valley.jpeg") no-repeat center;
+.image {
+	background: url("../images/moutain-valley.jpeg") no-repeat center;
 	min-height: 60rem;
-	background-size:cover;
+	background-size: cover;
 	background-attachment: fixed;
 	padding-top: 70px;
-
 }
+
 /*to add and style the footer*/
 footer{
 	background-color: #48db30;
