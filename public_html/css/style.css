@@ -12,12 +12,9 @@ nav.navbar{
 
 }
 /*to resize portfolio images*/
-.port{
-	width:85%;
-	padding-left:30px;
-}
-.contact{
-
+.port {
+	width: 85%;
+	padding-left: 30px;
 }
 /*to add and style the footer*/
 footer{
@@ -26,10 +23,7 @@ footer{
 	height: 50px;
 	text-align:center;
 }
-.phone{
-	text-decoration: none;
-	color: white;
-}
+
 /*to change the color of my nav links and brand to white*/
 .nav-link{
 	color:white;
@@ -43,7 +37,6 @@ span:hover .name{
 .me{
 	margin-top:15px;
 }
-/* change color to dark cyan */
 li:hover a{
 	color:darkblue;
 }
