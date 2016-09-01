@@ -1,7 +1,4 @@
-body{
-	background: black;
-	color:white;
-}
+
 nav.navbar{
 	margin-bottom:0;
 }
@@ -16,7 +13,7 @@ nav.navbar{
 }
 /*to add and style the footer*/
 footer{
-	background-color: forestgreen;
+	background-color: green;
 	color:white;
 	height: 50px;
 	text-align:center;
@@ -36,14 +33,14 @@ span:hover .name{
 	margin-top:15px;
 }
 li:hover a{
-	color:forestgreen;
+	color:green;
 }
 span:hover a{
-	color:forestgreen;
+	color:green;
 }
 /*form styles*/
 .contact{
-	background-color: forestgreen;
+	background-color: green;
 	margin-bottom: 20px;
 }
 form{
