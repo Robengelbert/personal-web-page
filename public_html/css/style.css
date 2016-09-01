@@ -13,7 +13,7 @@ nav.navbar{
 }
 /*to add and style the footer*/
 footer{
-	background-color: green;
+	background-color: #48db30;
 	color:white;
 	height: 50px;
 	text-align:center;
@@ -33,14 +33,14 @@ span:hover .name{
 	margin-top:15px;
 }
 li:hover a{
-	color:green;
+	color:#48db30;
 }
 span:hover a{
-	color:green;
+	color: #48db30;
 }
 /*form styles*/
 .contact{
-	background-color: green;
+	background-color: #48db30;
 	margin-bottom: 20px;
 }
 form{
