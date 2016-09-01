@@ -76,37 +76,40 @@
 
 
 		<!-- screenshot of the top of my resume -->
-		<div class="col-md-3"></div>
-		<div class="container col-md-6">
-			<img src="images/resume-snip.PNG" alt="objective and technical toolbox of my resume"/>
+		<div class="row">
+			<div class="col-md-3"></div>
+			<div class="container col-md-6">
+				<img src="images/resume-snip.PNG" alt="objective and technical toolbox of my resume"/>
+			</div>
+			<div class="col-md-3"></div>
 		</div>
-		<div class="col-md-3"></div>
 
 		<!-- Contact information -->
-		<div class="container">
-			<a id="call"></a>
-			<h3 id="contact" class="display-4 text-center">contact</h3>
+		<div class="row">
+			<div class="container">
+				<a id="call"></a>
+				<h3 id="contact" class="display-4 text-center">contact</h3>
 
-			<!-- Center this up and then after class change this to a jquery toggle.-->
-			<!-- contact form -->
-			<div class="col-md-4"></div>
-			<div class="col-md-4 text-center contact">
-				<form>
-					<div class="form-group">
-						<label for="inputName"></label>
-						<input type="text" class="form-control" placeholder="Name"/>
-					</div>
-					<div class="form-group">
-						<label for="inputEmail"></label>
-						<input type="email" class="form-control" placeholder="Email"/>
-					</div>
-					<label for="inputText"></label>
-					<textarea class="form-control" rows="3"></textarea>
-					<button type="button" class="btn btn-default">Submit</button>
-				</form>
+				<!-- change this form to a jquery toggle.-->
+				<!-- contact form -->
+				<div class="col-md-4"></div>
+				<div class="col-md-4 text-center contact">
+					<form>
+						<div class="form-group">
+							<label for="inputName"></label>
+							<input type="text" class="form-control" placeholder="Name"/>
+						</div>
+						<div class="form-group">
+							<label for="inputEmail"></label>
+							<input type="email" class="form-control" placeholder="Email"/>
+						</div>
+						<label for="inputText"></label>
+						<textarea class="form-control" rows="3"></textarea>
+						<button type="button" class="btn btn-default">Submit</button>
+					</form>
+				</div>
+				<div class="col-md-4"></div>
 			</div>
-			<div class="col-md-4"></div>
-		</div>
 		</div>
 		<footer>
 			<!--			try to find fontawesome links and get linkedn-->
