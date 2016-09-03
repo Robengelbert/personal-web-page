@@ -74,7 +74,7 @@
 		<div class="container">
 			<div class="row">
 				<p class="lead text-center about">After working in manufacturing for the past 13 years, as a welder and
-					aircraft assembler, I have decided to update my skills to and become a professional Web Developer. Soon
+					aircraft assembler, I have decided to update my skills and become a professional Web Developer. Soon
 					after I began learning the LAMP stack, I quickly realized that there is a connection between what I had
 					done in manufacturing and where I was heading with web development. Both use problem solving skills,
 					system diagnostics, troubleshooting, and patience. I am searching for a position as a Web Developer,
