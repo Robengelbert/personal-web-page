@@ -61,18 +61,16 @@
 		<div class="image">
 			<div class="container text-center about">
 				<p class="lead">Hi, my name is Robert, and I love to code. I started out learning online and then decided to
-					goto the deep dive coders bootcamp at central New Mexico's STEMulus center in Albuquerque New Mexico. I'm a
-					PHP, Javascript, JQuery, Angular JS, CSS, Bootstrap and HTML developer. I can't wait to start working
-					with
-					you.</p>
+					go to the Deep Dive Coders Bootcamp at Central New Mexico's STEMulus center in Albuquerque New Mexico. I'm a
+					PHP, JavaScript, JQuery, Angular JS, CSS3, Bootstrap and HTML5 developer. I can't wait to start working with you.</p>
 				<hr class="m-y-2">
 				<p class="lead">I like to give myself code challenges to solve in my spare time to help keep my skills
 					sharp.I've worked in manufacturing as a welder, and a aircraft assembler. Before that I worked in construction
-					asa sheetrock finisher.</p>
+					as a sheetrock finisher.</p>
 			</div>
 		</div>
 
-		<!-- add tables and a paragraph -->
+		<!-- Resume paragraph and technical toolbox -->
 		<div class="container">
 			<div class="row">
 				<p class="lead text-center about">After working in manufacturing for the past 13 years, as a welder and
@@ -144,10 +142,12 @@
 			</div>
 		</div>
 		<footer>
-			<!--			try to find fontawesome links and get linkedn-->
+			<!--			font awesome links-->
 			&copy;2016 Robert Engelbert
 			<a href="https://twitter.com/robengelbert" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 			<a href="https://www.linkedin.com/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i>
+			</a>
+			<a href="https://github.com/" target="_blank"><i class="fa fa-github" aria-hidden="true"></i>
 			</a>
 		</footer>
 		<!-- jQuery first, then Bootstrap JS. -->
