@@ -65,8 +65,8 @@
 					PHP, JavaScript, JQuery, Angular JS, CSS3, Bootstrap and HTML5 developer. I can't wait to start working with you.</p>
 				<hr class="m-y-2">
 				<p class="lead">I like to give myself code challenges to solve in my spare time to help keep my skills
-					sharp.I've worked in manufacturing as a welder, and a aircraft assembler. Before that I worked in construction
-					as a sheetrock finisher.</p>
+					sharp.<!--I've worked in manufacturing as a welder, and a aircraft assembler. Before that I worked in construction
+					as a sheetrock finisher.--></p>
 			</div>
 		</div>
 
