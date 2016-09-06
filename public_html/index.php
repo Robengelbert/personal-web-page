@@ -61,7 +61,7 @@
 		<div class="image">
 			<div class="container text-center about">
 				<p class="lead">Hi, my name is Robert, and I love to code. I started out learning online and then decided to
-					go to the Deep Dive Coders Bootcamp at Central New Mexico's STEMulus center in Albuquerque New Mexico. I'm a
+					go to the Deep Dive Coding Bootcamp at Central New Mexico's STEMulus center in Albuquerque New Mexico. I'm a
 					PHP, JavaScript, JQuery, Angular JS, CSS3, Bootstrap and HTML5 developer. I can't wait to start working with you.</p>
 				<hr class="m-y-2">
 				<p class="lead">I like to give myself code challenges to solve in my spare time to help keep my skills
