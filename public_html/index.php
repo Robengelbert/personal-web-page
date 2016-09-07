@@ -137,7 +137,7 @@
 						</div>
 						<div class="form-group">
 							<label for="inputText"></label>
-							<textarea class="form-control" rows="3"></textarea>
+							<textarea class="form-control" rows="3" placeholder="Message"></textarea>
 						</div>
 						<div class="form-group">
 							<button type="button" class="btn btn-default">Submit</button>
