@@ -61,8 +61,10 @@
 		<div class="image">
 			<div class="container text-center about">
 				<p class="lead">Hi, my name is Robert, and I love to code. I started out learning online and then decided to
-					go to the Deep Dive Coding Bootcamp at Central New Mexico's STEMulus center in Albuquerque New Mexico. I'm a
-					PHP, JavaScript, JQuery, Angular JS, CSS3, Bootstrap and HTML5 developer. I can't wait to start working with you.</p>
+					go to the Deep Dive Coding Bootcamp at Central New Mexico's STEMulus center in Albuquerque New Mexico.
+					I'm a
+					PHP, JavaScript, JQuery, Angular JS, CSS3, Bootstrap and HTML5 developer. I can't wait to start working
+					with you.</p>
 				<hr class="m-y-2">
 				<p class="lead">I like to give myself code challenges to solve in my spare time to help keep my skills
 					sharp.<!--I've worked in manufacturing as a welder, and a aircraft assembler. Before that I worked in construction
@@ -133,9 +135,13 @@
 							<label for="inputEmail"></label>
 							<input type="email" class="form-control" placeholder="Email"/>
 						</div>
-						<label for="inputText"></label>
-						<textarea class="form-control" rows="3"></textarea>
-						<button type="button" class="btn btn-default">Submit</button>
+						<div class="form-group">
+							<label for="inputText"></label>
+							<textarea class="form-control" rows="3"></textarea>
+						</div>
+						<div class="form-group">
+							<button type="button" class="btn btn-default">Submit</button>
+						</div>
 					</form>
 				</div>
 				<div class="col-md-4"></div>
