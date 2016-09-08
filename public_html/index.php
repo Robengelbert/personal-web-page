@@ -14,6 +14,8 @@
 		<link href="css/style.css" rel="stylesheet" type="text/css"/>
 
 		<script src="javascript/script.js"></script>
+		<!-- Your JavaScript Form Validator -->
+		<script src="javascript/form-validate.js"></script>
 
 		<!-- jQuery Form, Additional Methods, Validate -->
 		<script type="text/javascript"
@@ -23,8 +25,6 @@
 		<script type="text/javascript"
 				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/additional-methods.min.js"></script>
 
-		<!-- Your JavaScript Form Validator -->
-		<script src="javascript/form-validate.js"></script>
 
 		<!--		google recaptcha-->
 		<script src='https://www.google.com/recaptcha/api.js'></script>
