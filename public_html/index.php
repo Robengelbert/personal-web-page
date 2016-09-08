@@ -13,7 +13,6 @@
 		<!-- custom css -->
 		<link href="css/style.css" rel="stylesheet" type="text/css"/>
 
-		<script src="javascript/script.js"></script>
 		<!-- Your JavaScript Form Validator -->
 		<script src="javascript/form-validate.js"></script>
 
@@ -24,6 +23,8 @@
 				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/jquery.validate.min.js"></script>
 		<script type="text/javascript"
 				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/additional-methods.min.js"></script>
+
+		<script src="javascript/script.js"></script>
 
 
 		<!--		google recaptcha-->
