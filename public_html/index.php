@@ -144,21 +144,21 @@
 						<div class="col-md-4 text-center contact">
 							<form id="contact-form" action="" method="post">
 								<div class="form-group">
-									<label for="inputName"></label>
+									<label for="name"></label>
 									<div class="input-group">
 										<div class="input-group-addon">
 											<i class="fa fa-user" aria-hidden="true"></i>
 										</div>
-										<input type="text" class="form-control" placeholder="Name"/>
+										<input type="text" class="form-control" id="name" name="name" placeholder="Name"/>
 									</div>
 								</div>
 								<div class="form-group">
-									<label for="inputEmail"></label>
+									<label for="email"></label>
 									<div class="input-group">
 										<div class="input-group-addon">
 											<i class="fa fa-envelope" aria-hidden="true"></i>
 										</div>
-										<input type="email" class="form-control" placeholder="Email"/>
+										<input type="email" class="form-control" id="email" name="email" placeholder="Email"/>
 									</div>
 								</div>
 								<div class="form-group">
@@ -177,10 +177,11 @@
 										<div class="input-group-addon">
 											<i class="fa fa-comment" aria-hidden="true"></i>
 										</div>
-										<textarea class="form-control" rows="3" placeholder="Message"></textarea>
+										<textarea class="form-control" rows="5" id="message" name="message" placeholder="Message"></textarea>
 									</div>
 								</div>
 								<div class="form-group">
+<!--									reCAPTCHA-->
 									<div class="g-recaptcha" data-sitekey="6Le4sykTAAAAALWVR-sEaPTEYl2d3SHaleUgB-8L"></div>
 									<button type="button" class="btn btn-default">Submit</button>
 								</div>
