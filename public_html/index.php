@@ -26,6 +26,10 @@
 
 		<script src="javascript/script.js"></script>
 
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+				  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+				  crossorigin="anonymous"></script>
+
 
 		<!--		google recaptcha-->
 		<script src='https://www.google.com/recaptcha/api.js'></script>
@@ -208,10 +212,5 @@
 			<a href="https://github.com/" target="_blank"><i class="fa fa-github" aria-hidden="true"></i>
 			</a>
 		</footer>
-		<!-- jQuery first, then Bootstrap JS. -->
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
-				  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
-				  crossorigin="anonymous"></script>
 	</body>
 </html>
