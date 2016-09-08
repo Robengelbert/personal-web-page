@@ -184,7 +184,7 @@
 								<div class="form-group">
 									<!--									reCAPTCHA-->
 									<div class="g-recaptcha" data-sitekey="6Le4sykTAAAAALWVR-sEaPTEYl2d3SHaleUgB-8L"></div>
-									<button type="button" class="btn btn-default">Submit</button>
+									<button type="submit" class="btn btn-default">Submit</button>
 								</div>
 							</form>
 						</div>
