@@ -142,7 +142,7 @@
 				<div class="container form-wrap">
 					<div class="row">
 						<div class="col-md-4 text-center contact">
-							<form id="contact-form" action="" method="post">
+							<form id="contact-form" action="php/mailer.php" method="post" novalidate>
 								<div class="form-group">
 									<label for="name"></label>
 									<div class="input-group">
@@ -177,11 +177,12 @@
 										<div class="input-group-addon">
 											<i class="fa fa-comment" aria-hidden="true"></i>
 										</div>
-										<textarea class="form-control" rows="5" id="message" name="message" placeholder="Message"></textarea>
+										<textarea class="form-control" rows="5" id="message" name="message"
+													 placeholder="Message"></textarea>
 									</div>
 								</div>
 								<div class="form-group">
-<!--									reCAPTCHA-->
+									<!--									reCAPTCHA-->
 									<div class="g-recaptcha" data-sitekey="6Le4sykTAAAAALWVR-sEaPTEYl2d3SHaleUgB-8L"></div>
 									<button type="button" class="btn btn-default">Submit</button>
 								</div>
@@ -190,6 +191,11 @@
 						<div class="col-md-4"></div>
 					</div>
 				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-12">
+				<div id="output-area"></div>
 			</div>
 		</div>
 		<footer>
