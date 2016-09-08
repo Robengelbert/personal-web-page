@@ -159,6 +159,15 @@
 									</div>
 								</div>
 								<div class="form-group">
+									<label for="subject"></label>
+									<div class="input-group">
+										<div class="input-group-addon">
+											<i class="fa fa-pencil" aria-hidden="true"></i>
+										</div>
+										<input type="text" class="form-control" id="subject" name="subject" placeholder="Subject" />
+									</div>
+								</div>
+								<div class="form-group">
 									<label for="message"></label>
 									<div class="input-group">
 										<div class="input-group-addon">
