@@ -17,9 +17,12 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
 
 		<!-- jQuery Form, Additional Methods, Validate -->
-		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
-		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/jquery.validate.min.js"></script>
-		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/additional-methods.min.js"></script>
+		<script type="text/javascript"
+				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
+		<script type="text/javascript"
+				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/jquery.validate.min.js"></script>
+		<script type="text/javascript"
+				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/additional-methods.min.js"></script>
 
 		<!-- Your JavaScript Form Validator -->
 		<script src="javascript/form-validate.js"></script>
@@ -79,29 +82,26 @@
 		<!-- Added a image with text over it -->
 		<div class="image">
 			<div class="container text-center about">
-				<p class="lead">Hi, my name is Robert, and I love to code. I started out learning online and then decided to
-					go to the Deep Dive Coding Bootcamp at Central New Mexico's STEMulus center in Albuquerque New Mexico.
-					I'm a
-					PHP, JavaScript, JQuery, Angular JS, CSS3, Bootstrap and HTML5 developer. I can't wait to start working
-					with you.</p>
+				<p class="lead">After working in manufacturing for the past 13 years, as a welder and
+					aircraft assembler, I have decided to update my skills and become a professional Web Developer. Soon
+					after I began learning the LAMP stack, I quickly realized that there is a connection between what I had
+					done in manufacturing and where I was heading with web development. Both use problem solving skills,
+					system diagnostics, troubleshooting, and patience. I am searching for a position as a Web Developer,
+					where I can continue to utilize and grow these same strengths.</p>
 				<hr class="m-y-2">
-				<p class="lead">I like to give myself code challenges to solve in my spare time to help keep my skills
-					sharp.<!--I've worked in manufacturing as a welder, and a aircraft assembler. Before that I worked in construction
-					as a sheetrock finisher.--></p>
 			</div>
 		</div>
 
 		<!-- Resume paragraph and technical toolbox -->
 		<div class="container">
 			<div class="row">
-				<p class="lead text-center about">After working in manufacturing for the past 13 years, as a welder and
-					aircraft assembler, I have decided to update my skills and become a professional Web Developer. Soon
-					after I began learning the LAMP stack, I quickly realized that there is a connection between what I had
-					done in manufacturing and where I was heading with web development. Both use problem solving skills,
-					system diagnostics, troubleshooting, and patience. I am searching for a position as a Web Developer,
-					where I can continue to utilize and grow these same strengths.
-
+				<p class="lead text-center about">Hi, my name is Robert, and I love to code. I started out learning online and then decided to
+					go to the Deep Dive Coding Bootcamp at Central New Mexico's STEMulus center in Albuquerque New Mexico.
+					I'm a
+					PHP, JavaScript, JQuery, Angular JS, CSS3, Bootstrap and HTML5 developer. I can't wait to start working
+					with you.
 				</p>
+				<h4 class="lead">Technical toolbox</h4>
 				<div class="table-responsive">
 					<table class=" table table-hover">
 						<tbody>
@@ -198,9 +198,11 @@
 				</div>
 			</div>
 		</div>
-		<div class="row">
-			<div class="col-xs-12">
-				<div id="output-area"></div>
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+					<div id="output-area"></div>
+				</div>
 			</div>
 		</div>
 		<footer>
