@@ -15,6 +15,17 @@
 
 		<script src="javascript/script.js"></script>
 
+		<!-- jQuery Form, Additional Methods, Validate -->
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/jquery.validate.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/additional-methods.min.js"></script>
+
+		<!-- Your JavaScript Form Validator -->
+		<script src="js/form-validate.js"></script>
+
+<!--		google recaptcha-->
+		<script src='https://www.google.com/recaptcha/api.js'></script>
+
 		<!--		font awesome-->
 
 		<script src="https://use.fontawesome.com/304dbb25bb.js"></script>
@@ -128,7 +139,7 @@
 				<div class="container form-wrap">
 					<div class="row">
 						<div class="col-md-4 text-center contact">
-							<form id="contact-form" action="">
+							<form id="contact-form" action="" method="post">
 								<div class="form-group">
 									<label for="inputName"></label>
 									<div class="input-group">
@@ -157,6 +168,7 @@
 									</div>
 								</div>
 								<div class="form-group">
+									<div class="g-recaptcha" data-sitekey="6Le4sykTAAAAALWVR-sEaPTEYl2d3SHaleUgB-8L"></div>
 									<button type="button" class="btn btn-default">Submit</button>
 								</div>
 							</form>
