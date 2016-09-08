@@ -142,7 +142,7 @@
 				<div class="container form-wrap">
 					<div class="row">
 						<div class="col-md-4 text-center contact">
-							<form id="contact-form" action="php/mailer.php" method="post" novalidate>
+							<form id="contact-form" action="php/mailer.php" method="POST" novalidate>
 								<div class="form-group">
 									<label for="name"></label>
 									<div class="input-group">
