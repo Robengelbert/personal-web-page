@@ -125,26 +125,45 @@
 				<!-- change this form to a jquery toggle.-->
 				<!-- contact form -->
 				<div class="col-md-4"></div>
-				<div class="col-md-4 text-center contact">
-					<form>
-						<div class="form-group">
-							<label for="inputName"></label>
-							<input type="text" class="form-control" placeholder="Name"/>
+				<div class="container form-wrap">
+					<div class="row">
+						<div class="col-md-4 text-center contact">
+							<form id="contact-form" action="">
+								<div class="form-group">
+									<label for="inputName"></label>
+									<div class="input-group">
+										<div class="input-group-addon">
+											<i class="fa fa-user" aria-hidden="true"></i>
+										</div>
+										<input type="text" class="form-control" placeholder="Name"/>
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="inputEmail"></label>
+									<div class="input-group">
+										<div class="input-group-addon">
+											<i class="fa fa-envelope" aria-hidden="true"></i>
+										</div>
+										<input type="email" class="form-control" placeholder="Email"/>
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="message"></label>
+									<div class="input-group">
+										<div class="input-group-addon">
+											<i class="fa fa-comment" aria-hidden="true"></i>
+										</div>
+										<textarea class="form-control" rows="3" placeholder="Message"></textarea>
+									</div>
+								</div>
+								<div class="form-group">
+									<button type="button" class="btn btn-default">Submit</button>
+								</div>
+							</form>
 						</div>
-						<div class="form-group">
-							<label for="inputEmail"></label>
-							<input type="email" class="form-control" placeholder="Email"/>
-						</div>
-						<div class="form-group">
-							<label for="inputText"></label>
-							<textarea class="form-control" rows="3" placeholder="Message"></textarea>
-						</div>
-						<div class="form-group">
-							<button type="button" class="btn btn-default">Submit</button>
-						</div>
-					</form>
+						<div class="col-md-4"></div>
+					</div>
 				</div>
-				<div class="col-md-4"></div>
 			</div>
 		</div>
 		<footer>
