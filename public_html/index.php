@@ -13,16 +13,16 @@
 		<!-- custom css -->
 		<link href="css/style.css" rel="stylesheet" type="text/css"/>
 
-		<!-- Your JavaScript Form Validator -->
-		<script src="javascript/form-validate.js"></script>
+		<!-- jQuery -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
 
 		<!-- jQuery Form, Additional Methods, Validate -->
-		<script type="text/javascript"
-				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
-		<script type="text/javascript"
-				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/jquery.validate.min.js"></script>
-		<script type="text/javascript"
-				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/additional-methods.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/jquery.validate.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/additional-methods.min.js"></script>
+
+		<!-- Your JavaScript Form Validator -->
+		<script src="js/form-validate.js"></script>
 
 		<script src="javascript/script.js"></script>
 
@@ -145,7 +145,7 @@
 						<div class="col-md-4 text-center contact">
 							<form id="contact-form" action="php/mailer.php" method="POST" novalidate>
 								<div class="form-group">
-									<label for="name"></label>
+									<label for="name"><span class="text-danger">*</span></label>
 									<div class="input-group">
 										<div class="input-group-addon">
 											<i class="fa fa-user" aria-hidden="true"></i>
@@ -154,7 +154,7 @@
 									</div>
 								</div>
 								<div class="form-group">
-									<label for="email"></label>
+									<label for="email"><span class="text-danger">*</span></label>
 									<div class="input-group">
 										<div class="input-group-addon">
 											<i class="fa fa-envelope" aria-hidden="true"></i>
@@ -173,7 +173,7 @@
 									</div>
 								</div>
 								<div class="form-group">
-									<label for="message"></label>
+									<label for="message"><span class="text-danger">*</span></label>
 									<div class="input-group">
 										<div class="input-group-addon">
 											<i class="fa fa-comment" aria-hidden="true"></i>
