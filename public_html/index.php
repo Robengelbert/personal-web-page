@@ -12,7 +12,7 @@
 				crossorigin="anonymous"/>
 
 <!--		Google fonts-->
-		<link href="https://fonts.googleapis.com/css?family=Boogaloo" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
 
 		<!-- custom css -->
 		<link href="css/style.css" rel="stylesheet" type="text/css"/>
