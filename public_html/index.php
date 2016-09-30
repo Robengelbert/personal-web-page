@@ -10,6 +10,10 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
 				integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
 				crossorigin="anonymous"/>
+
+<!--		Google fonts-->
+		<link href="https://fonts.googleapis.com/css?family=Boogaloo" rel="stylesheet">
+
 		<!-- custom css -->
 		<link href="css/style.css" rel="stylesheet" type="text/css"/>
 
@@ -131,6 +135,57 @@
 							</tr>
 						</tbody>
 					</table>
+				</div>
+			</div>
+		</div>
+
+<!--		Portfolio-->
+		<div class="container">
+			<div class="row">
+				<h4 class="lead">Portfolio</h4>
+				<div class="col-xs-12 col-md-3">
+					<div class="thumbnail">
+						<a href="http://skooliesfreedom.com/" target="_blank">
+							<img src="images/skoolie-done.jpg" alt="Image of finished skoolie"/>
+						</a>
+						<div class="caption">
+							<h4>Skoolie video blog</h4>
+							<p>This is a collection of all my past, present and future videos and some pictures of my school bus conversion.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-xs-12 col-md-3">
+					<div class="thumbnail">
+						<a href="#">
+							<img src="images/jeopardy1.jpg" alt="Jeopardy image" />
+						</a>
+						<div class="caption">
+							<h4>DDCBJeopardy</h4>
+							<p>Deep Dive Coding Bootcamp Jeopardy is a game I'm working on with a team of other developers. Coming soon.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-xs-12 col-md-3">
+					<div class="thumbnail">
+						<a href="#">
+							<img src="images/coming-soon.jpg" alt="Coming soon image" />
+						</a>
+						<div class="caption">
+							<h4>Future project</h4>
+							<p>Project coming soon</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-xs-12 col-md-3">
+					<div class="thumbnail">
+						<a href="#">
+							<img src="images/coming-soon.jpg" alt="Coming soon image" />
+						</a>
+						<div class="caption">
+							<h4>Future project</h4>
+							<p>Project comming soon</p>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>

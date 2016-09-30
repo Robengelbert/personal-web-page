@@ -1,4 +1,6 @@
-
+body{
+	font-family: 'Boogaloo', cursive;
+}
 nav.navbar{
 	margin-bottom:0;
 	background-color: #4D1A70;
